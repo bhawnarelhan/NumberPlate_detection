@@ -36,6 +36,4 @@ This project is licensed under the [MIT License](LICENSE)
 
 For any inquiries or questions regarding the project, you can reach out to:
 
-Bhawna
-
 bhawnarelhan6@gmail.com
